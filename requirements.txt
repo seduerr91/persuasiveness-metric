@@ -1,0 +1,11 @@
+# Model Related
+spacy==2.3
+Pyphen
+scikit-learn
+
+# FASTAPI
+uvicorn
+FastAPI
+gunicorn
+uvloop
+httptools
