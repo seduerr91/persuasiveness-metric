@@ -1,4 +1,4 @@
-# Measuring the Persuasiveness of an Arbitrary Email
+# Determining the Persuasiveness of an Arbitrary Email
 
 This repository introduces the persuasiveness metric.
 
@@ -9,11 +9,9 @@ This repository introduces the persuasiveness metric.
 
 Please contact me in case you need any information or have any questions.
 
-Instructions to run locally:
+Instructions to run the persuasiveness metric locally:
 
-python3'''
-git clone https://github.com/seduerr91/persuasiveness-metric
-cd persuasiveness-metric
-pip3 install -r requirements.txt
-python3 app.py
-'''
+    git clone https://github.com/seduerr91/persuasiveness-metric
+    cd persuasiveness-metric
+    pip3 install -r requirements.txt
+    python3 app.py
